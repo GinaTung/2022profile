@@ -22,13 +22,15 @@ h1{
     line-height: 1.1875;
     border-bottom: 2px solid #000;
 }
+.font-style{
+    font-size: 24px;
+    line-height: 1.5;
+}
 .profile{
     margin-bottom: 40px;
 }
 .profile li{
     padding-bottom: 24px;
-    font-size: 24px;
-    line-height: 1.5;
 }
 .profile img{
     margin: 48px 0;
@@ -54,10 +56,8 @@ h1{
 .eduction{
     margin-bottom: 48px;
 }
-.eduction li{
+.eduction-content li{
     margin-bottom: 16px;
-    font-size: 24px;
-    line-height: 1.5;
 }
 .skills{
     text-align: center;
@@ -96,8 +96,6 @@ h1{
 }
 .skills-content-list li{
     margin-bottom: 8px;
-    font-size: 24px;
-    line-height: 1.5;
 }
 .work{
     margin-bottom: 80px;
@@ -111,8 +109,6 @@ h1{
     margin-bottom: 24px;
 }
 .work-content li h3{
-    line-height: 1.5;
-    font-size: 24px;
     font-weight: bold;
 }
 .work-content li p{
@@ -136,11 +132,9 @@ h1{
 .contact-content li a{
     text-decoration: none;
     color:#fff;
-    font-size: 24px;
-    line-height: 1.5;
 }
 .contact-content li img{
     margin: 0 12px;
-    padding-bottom: 40px;
+    padding-bottom: 24px;
 }
 
